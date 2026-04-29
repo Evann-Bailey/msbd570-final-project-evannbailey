@@ -33,3 +33,10 @@ While the current clinical standard—the Apnea-Hypopnea Index (AHI)—often fai
 ```bash
 git clone [https://github.com/your-username/msbd570-final-project-evannbailey.git](https://github.com/your-username/msbd570-final-project-evannbailey.git)
 cd msbd570-final-project-evannbailey
+
+### Step 2: Run
+python app.py
+
+## 5. Clinical Context
+Data is sourced from the Sleep Heart Health Study (SHHS). Features were extracted using a Linux HPC cluster at Meharry Medical College.
+
