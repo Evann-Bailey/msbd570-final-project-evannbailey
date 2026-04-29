@@ -31,7 +31,7 @@ While the current clinical standard—the Apnea-Hypopnea Index (AHI)—often fai
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [https://github.com/your-username/msbd570-final-project-evannbailey.git](https://github.com/your-username/msbd570-final-project-evannbailey.git)
+git clone [https://github.com/Evann-Bailey/msbd570-final-project-evannbailey.git](https://github.com/Evann-Bailey/msbd570-final-project-evannbailey.git)
 cd msbd570-final-project-evannbailey
 
 ### Step 2: Run
