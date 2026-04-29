@@ -9,8 +9,8 @@ Interactive visual analytics dashboard for identifying autonomic signatures of s
 
 ---
 
-## 1. Executive Summary
-This project introduces an interactive visual analytics dashboard designed to address the "Diagnostic Gap" in stroke risk prediction for patients with Obstructive Sleep Apnea (OSA). 
+## 1. Summary
+This project introduces an interactive visual analytics dashboard designed to address the diagnostic gap in stroke risk prediction for patients with Obstructive Sleep Apnea (OSA). 
 
 While the current clinical standard—the Apnea-Hypopnea Index (AHI)—often fails to provide statistically significant hazard ratios for individual stroke events, this framework visualizes a unique **"Autonomic Phenotype."** By analyzing high-resolution ECG signal transitions from the Sleep Heart Health Study (SHHS), the tool identifies physiological instability and "pathological divergence" that remains hidden in aggregate clinical counts.
 
